@@ -1,0 +1,3 @@
+F:/HocC/Tuyen/QuanLyDaySo/cmake-build-debug/CMakeFiles/QuanLyDaySo.dir
+F:/HocC/Tuyen/QuanLyDaySo/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/HocC/Tuyen/QuanLyDaySo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
